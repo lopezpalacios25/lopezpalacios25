@@ -2,8 +2,8 @@
 
 About Me:
 
-🌱 I’m currently learning Spring Framework <br>
-🎓 II am a computer engineering graduate from Duoc UC<br>
+🎓 I am a computer engineering graduate from Duoc UC <br>
+🌱 I'm currently learning Spring Framework<br>
 🎶 Funk | Bass<br>
 
 🔥 Languages & Frameworks & Tools & Abilities 🔥 <br>
